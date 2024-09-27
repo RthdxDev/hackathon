@@ -4,4 +4,13 @@ torch
 torchaudio
 transformers
 pydub
+<<<<<<< HEAD
+tensorflow 
+tensorflow_hub 
+librosa 
+pydub 
+numpy
+whisper
+=======
 nemo
+>>>>>>> 775cecd95926fd199bb020ce8001a756a7f596e8
