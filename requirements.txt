@@ -4,3 +4,9 @@ torch
 torchaudio
 transformers
 pydub
+tensorflow 
+tensorflow_hub 
+librosa 
+pydub 
+numpy
+whisper
