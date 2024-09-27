@@ -1,0 +1,7 @@
+moviepy
+opencv-python
+torch
+torchaudio
+transformers
+pydub
+nemo
